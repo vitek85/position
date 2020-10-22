@@ -53,6 +53,7 @@ p.text {
     background-image: url(../img/img.png);
     position: relative;
     background-size: cover;
+    box-shadow: 0 5px 10px rgb(51,51,51);
 
 
    
@@ -90,6 +91,10 @@ p.text {
     height:310px;
     transform: translate(404px, -310px);
     background-image: url(../img/img2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 5px 10px rgb(51,51,51);
+    
 
 }
 
@@ -98,6 +103,9 @@ p.text {
     height:310px;
     transform: translate(800px, -620px);
     background-image: url(../img/img3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 5px 10px rgb(51,51,51);
 
 }
 
